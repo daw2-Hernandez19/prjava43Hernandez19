@@ -2,6 +2,7 @@ package prjava43.hernandez19;
 import java.awt.*;
 import java.awt.event.*;
 import java.io.*;
+import java.sql.*;
 
 public class Prjava43Hernandez19 extends Frame implements ActionListener, WindowListener {
 // This class acts as listener for ActionEvent and WindowEvent
